@@ -2,7 +2,7 @@
 
 This repository powers [aaronsnow.github.io](https://aaronsnow.github.io/).
 
-It uses Github Pages and the (default) Minmima theme, with some tweaks, 
+It uses Github Pages and the (default) Minmima theme, with some tweaks.
 
 The code here and Minima theme are licensed under the [MIT License](https://github.com/aaronsnow/aaronsnow.github.io/blob/master/LICENSE). 
 
