@@ -1,4 +1,4 @@
-This repository powers [aaronsnow.net](https://aaronsnow.net) (née [aaronsnow.github.io](https://aaronsnow.github.io/)). It uses Github Pages and the (default) Minmima theme, with a few tweaks.
+This repository powers [aaronsnow.net](https://aaronsnow.net) (née [aaronsnow.github.io](https://aaronsnow.github.io/)). It uses [Github Pages](https://pages.github.com/) and the (default) [Minima theme](https://github.com/jekyll/minima), with a few tweaks.
 
 The code here and the Minima theme are licensed under the [MIT License](https://github.com/aaronsnow/aaronsnow.github.io/blob/master/LICENSE). 
 
