@@ -23,7 +23,7 @@ Nothing CDS has done is perfect, and not every project succeeded. I’m proud th
 
 But most importantly, I think, CDS’s existence and accomplishments have demonstrated that working differently is possible: that if it chooses to, the public service can build and support teams capable of rapidly shipping secure, user-friendly services to millions of people, retooling overnight to help Canadians halfway around the world, and providing unconflicted expertise to help program offices design and implement their policies and services iteratively with the users of those services. Building these capabilities, not just at CDS, but all across government, is the change we need more of.
 
-#### **The work ahead**
+#### The work ahead
 
 CDS is no longer a term-limited experiment. This spring the federal budget included, for the first time, [ongoing, increased funding for CDS](https://www.budget.gc.ca/2021/report-rapport/p4-en.html#268). This will enable the team to grow and deliver more than ever, adding to its burgeoning digital platform and expanding and diversifying its capacity to help partner departments. We’re at the end of the beginning.
 
@@ -35,7 +35,7 @@ To get there, the public service still needs to build unfamiliar types of intern
 
 Canada, you are lucky to have Catherine Luelo as your new federal CIO, and Anatole Papadopoulos leading CDS. Follow them. And be bold. The work takes time and patience (it is, as Cyd Harrell says, a project measured in decades), but it is incredibly rewarding work, for the worthy mission of changing government to serve people better. The GC public service can get it done, if you [choose](https://digital.canada.ca/our-values/) to do the hard work to make things easier, put people at the heart of services, deliver measurable outcomes, build for learning and iteration, work in the open to help clear a path, and take care of each other along the way.
 
-#### **Gratitude**
+#### Gratitude
 
 I enjoyed the heck out of this job, and even more, this team. I learned from them, was humbled and amazed by them over and over, laughed with them, and most of all am grateful for the joy of growing close to them. A group of such dedicated, talented, kind, generous, and fun people is rare and wonderful.
 
