@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Real Reason COVID Exposure Notification Apps Didn’t Meet Expectations in North America, And What We Should Learn From Them"
+title:  "Why COVID Exposure Notification Apps Didn’t Meet Expectations in North America, And What We Should Learn From Them"
 date:   2022-06-22 00:00:00 -0400
 # categories: digital-services exposure-notification covid-alert united-states canada federated-governments
 reveal: true
