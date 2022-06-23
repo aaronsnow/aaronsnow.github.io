@@ -24,7 +24,7 @@ In most EN apps, this is done by entering a code, or “one-time key” (OTK) in
 
 Unfortunately — for reasons that are both understandable and solvable — OTK distribution in Canada was dismal.
 
-There have been nearly four million cases of COVID-19 diagnosed in Canada, but only 63,117 one-time keys were ever issued. In other words, _the app only got even a _chance_ to help in 1.6% of all COVID cases_.
+There have been nearly four million cases of COVID-19 diagnosed in Canada, but only 63,117 one-time keys were ever issued. In other words, _the app only got even a_ chance _to help in 1.6% of all COVID cases_.
 
 I’m all but certain the same is true, or worse, in the United States, but there just isn’t enough publicly available data to say for sure. To its credit, the Government of Canada was transparent with this data. (I’m proud that the cross-government COVID Alert team was united on this issue.) I went looking for the same kind of data for several U.S. states’ EN apps, and could find none. Many American states deployed EN apps, and some states have reported user adoption numbers, but I haven’t found any state that openly tracks or reports the number of one-time keys issued or entered into its users’ phones — so we have no idea how much or little COVID spread was (or is) curbed by their apps.
 
