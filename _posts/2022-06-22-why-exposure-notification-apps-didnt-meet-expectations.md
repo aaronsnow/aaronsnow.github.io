@@ -6,7 +6,9 @@ date:   2022-06-22 00:00:00 -0400
 reveal: true
 ---
 
-A fair amount has been written about the recently retired [COVID Alert](https://canada.ca/covid-alert), the Government of Canada’s COVID exposure notification service based on the Google Apple Exposure Notification (GAEN) framework. Several pieces have lamented that “only” 6.9 million people, or a little more than 22% of all adults in Canada, downloaded the app, and speculation abounds about why more people didn’t download it.
+A fair amount has been written about the recently retired [COVID Alert](https://canada.ca/covid-alert), the Government of Canada’s COVID exposure notification service based on the Google Apple Exposure Notification (GAEN) framework. Several pieces have lamented that “only” 6.9 million people, or a little more than 22% of all adults in Canada, downloaded the app, and speculation abounds about why more people didn’t download it. I think that focus misses some much more important, if less sound-bite-friendly, issues.
+
+_(Update: I've added some more thoughts on this subject in two short(-ish) Twitter threads, [first here](https://twitter.com/aaronsnow/status/1539725685589266432) and [second here](https://twitter.com/aaronsnow/status/1540156314084589569).)_
 
 <!--more--> 
 
