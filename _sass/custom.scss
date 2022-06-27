@@ -17,3 +17,22 @@
   .post-title {
     line-height: 1.2;
   }
+
+// reformat footnotes a bit
+div.footnotes {
+  border-top: 1px solid lightgray;
+  margin-top: 2em;
+  padding-top: 1em;
+  ol {
+    margin-left: 1em;
+    li {
+      font-size: 85%;
+    }
+  }
+}
+
+// hide footnotes (the markers and the notes) from post previews
+.home ul.post-list div.footnotes,
+.home ul.post-list p sup {
+  display: none;
+}
