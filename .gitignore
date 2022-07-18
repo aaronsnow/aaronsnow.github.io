@@ -6,3 +6,4 @@ _site
 vendor
 tmp
 .tmp
+Gemfile.lock
