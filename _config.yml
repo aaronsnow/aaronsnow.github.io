@@ -40,10 +40,12 @@ minima:
     twitter: aaronsnow
     github: aaronsnow
     linkedin: aaronsnow
-
+    
 twitter_username: aaronsnow
 github_username:  aaronsnow
 linkedin_username: aaronsnow
+mastodon_username: aaronsnow
+mastodon_instance: mastodon.social
 
 # Build settings
 theme: minima
