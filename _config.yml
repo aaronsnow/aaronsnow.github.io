@@ -40,6 +40,9 @@ minima:
     twitter: aaronsnow
     github: aaronsnow
     linkedin: aaronsnow
+    mastodon:
+      - username: aaronsnow
+        instance: mastodon.social
     
 twitter_username: aaronsnow
 github_username:  aaronsnow
