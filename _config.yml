@@ -38,6 +38,7 @@ header_pages:
 minima:
   social_links:
     twitter: aaronsnow
+    threads: aaronfromcleveland
     github: aaronsnow
     linkedin: aaronsnow
     mastodon:
@@ -45,6 +46,7 @@ minima:
         instance: mastodon.social
     
 twitter_username: aaronsnow
+threads_username: aaronfromcleveland
 github_username:  aaronsnow
 linkedin_username: aaronsnow
 mastodon_username: aaronsnow
