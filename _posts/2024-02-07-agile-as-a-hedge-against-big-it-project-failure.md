@@ -5,7 +5,7 @@ date:   2024-02-07 00:00:00 -0400
 # categories: agile government it-investments
 ---
 
-Why Don’t Governments Hedge Against Their Big IT Investments? And What If They Did?
+Why don’t governments hedge against their Big IT investments? And what if they did?
 
 Back in November, [John Ivison covered the saga of the Government of Canada’s Benefits Delivery Modernization (“BDM”) project](https://nationalpost.com/opinion/ottawas-latest-it-project-ballooning-by-billions) for the National Post. Its already-enormous price tag has ballooned four-fold, to almost $8 billion:
 
