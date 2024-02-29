@@ -10,3 +10,5 @@ From 2018-2021 I was the first CEO of the [Canadian Digital Service](https://dig
 Before that, I was Executive Director and co-founder of [18F](https://18f.gsa.gov). 
 
 For more, you can find me on [Linkedin](https://linkedin.com/in/aaronsnow) or [Mastodon](https://mastodon.social/@aaronsnow), or sometimes [Threads](https://threads.net/aaronfromcleveland).
+
+I'm also trying out a newsletter. You can [subscribe to it here](https://buttondown.email/aaronsnow).
