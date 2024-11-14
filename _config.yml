@@ -39,6 +39,7 @@ minima:
   social_links:
     twitter: aaronsnow
     threads: aaronfromcleveland
+    bluesky: asnow.bsky.social
     github: aaronsnow
     linkedin: aaronsnow
     mastodon:
@@ -47,6 +48,7 @@ minima:
     
 twitter_username: aaronsnow
 threads_username: aaronfromcleveland
+bluesky_username: asnow.bsky.social
 github_username:  aaronsnow
 linkedin_username: aaronsnow
 mastodon_username: aaronsnow
