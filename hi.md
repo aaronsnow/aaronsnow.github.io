@@ -13,3 +13,5 @@ I got my start working on government technology in 2013 as a [Presidential Innov
 Most recently, I was a [Faculty Fellow](https://beeckcenter.georgetown.edu/person/aaron-snow/) at the [Georgetown University Beeck Center for Social Impact and Innovation](https://beeckcenter.georgetown.edu). I'm also on the [FWD50](https://fwd50.com) Advisory Board and the Board of Directors of the [Foundation for Public Code North America](https://publiccode.net).
 
 You can find me on [Linkedin](https://linkedin.com/in/aaronsnow) or [BlueSky](https://bsky.app/profile/aaronsnow.net).
+
+[Home](https://aarnsnow.net)
