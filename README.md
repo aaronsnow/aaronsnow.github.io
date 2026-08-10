@@ -6,4 +6,4 @@ Content on the blog is licensed under the [Creative Commons Attribution 4.0 Inte
 
 Feel free to reuse the code here, and to reshare content (with attribution) as you’d like.
 
-I'd love to hear your feedback and suggestions about the content and the site. Find me on Twitter at [@aaronsnow](https://twitter.com/aaronsnow), on [LinkedIn](https://linkedin.com/in/aaronsnow), or firstnamelastname at gmail.
+I'd love to hear your feedback and suggestions about the content and the site. You can find me on [LinkedIn](https://linkedin.com/in/aaronsnow), or firstnamelastname at gmail.

@@ -33,11 +33,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
+  - index.md
   - hi.md
 
 minima:
   social_links:
-    twitter: aaronsnow
     threads: aaronfromcleveland
     bluesky: aaronsnow.net
     github: aaronsnow
@@ -46,13 +46,10 @@ minima:
       - username: aaronsnow
         instance: mastodon.social
     
-twitter_username: aaronsnow
 threads_username: aaronfromcleveland
 bluesky_username: aaronsnow.net
 github_username:  aaronsnow
 linkedin_username: aaronsnow
-mastodon_username: aaronsnow
-mastodon_instance: mastodon.social
 
 # Build settings
 theme: minima
