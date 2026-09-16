@@ -13,6 +13,6 @@ I spent last year as a Principal Advisor for [AWS](https://aws.amazon.com/), hel
 
 I got my start working on government technology in 2013 as a [Presidential Innovation Fellow](https://pif.gov). Before entering government service, I developed software and managed product development for small and large enterprises, including Microsoft, and co-founded Daring Software, building the back-end for its flagship [Arro](https://web.archive.org/web/20151031205146/http://www.arroapp.com/) shopping app.
 
-You can find me on [Linkedin](https://linkedin.com/in/aaronsnow), or email me at aaron@aaronsnow.net.
+You can find me on [Linkedin](https://linkedin.com/in/aaronsnow), or email me at [aaron@thekyejar.com](mailto:aaron@thekeyjar.com).
 
-[Home](https://aarnsnow.net)
+[Home](https://aaronsnow.net)
