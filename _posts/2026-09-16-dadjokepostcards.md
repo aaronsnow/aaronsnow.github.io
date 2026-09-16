@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I Did a Thing With AI to Learn How To Do a Thing With AI: Send a Dad Joke On a Postcard"
-date:   2029-09-16 00:00:00 -0400
+date:   2026-09-16 00:00:00 -0400
 # categories: dadjokes ai development
 ---
 
