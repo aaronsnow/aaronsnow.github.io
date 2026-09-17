@@ -9,7 +9,7 @@ Hey, I made a thing with AI to teach myself how to make a thing with AI: [dadjok
 
 This was inspired by wanting to keep some multichannel #dadjoke torture going even as my kids left for summer camp or college. That was a few years ago and I never got around to it, but recently, when I wanted to learn how to do AI-assisted coding, this seemed like a perfect project to cut my teeth on.
 
-Some details about how it went and what I learned:
+Some details about how it went, what I learned, and what it has to do with government digital services:
 
 <!--more-->
 
