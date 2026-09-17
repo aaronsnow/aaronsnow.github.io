@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekend AI Learning Project: Send a Dad Joke on a Postcard"
+title:  "dadjokepostcards.com, and its lessons for government digtial services"
 date:   2026-09-16 00:00:00 -0400
 # categories: dadjokes ai development
 ---
@@ -19,7 +19,11 @@ In short, it turned out most of the work wasn't in being a hobby-level coder; it
 
 **A couple takeaways:** A hobby-level project is hardly useful evidence for drawing generalizable lessons about the state of product design and development. But it was useful to experience first-hand what's obviously happening across the entire field: my labor distribution on this project, away from the code and onto the design and other non-technical tasks, is more or less representative of where service-level software production is (or is headed) now.
 
-At [CDS](http://localhost:4000/2021/10/13/the-canadian-digital-service-chapter-1.html) we used to say "code is cheap," to encourage civil servants scarred by waterfall-driven development and absurdly expensive change orders not to think of software as something you have to very carefully plan, massively budget for, painstakingly build, and then never touch unless you absolutely must. Obviously code is cheaper than ever now, for any org ready and willing to take advantage of it. Governments, predictably, are all over the map. [The province of Alberta](https://nateglubish.substack.com/p/they-said-it-would-cost-54-million), of all places, is one of the leading lights on this.)
+At [CDS](http://localhost:4000/2021/10/13/the-canadian-digital-service-chapter-1.html) we used to say "code is cheap," to encourage civil servants scarred by waterfall-driven development and absurdly expensive change orders not to think of software as something you have to very carefully plan, massively budget for, painstakingly build, and then never touch unless you absolutely must. Obviously code is cheaper than ever now, for any org ready and willing to take advantage of it.
+
+And it's not just the code you and your team write yourselves that's cheaper now. Wiring up your code with other people's code is also easier and faster than ever. [dadjokepostcards.com](https://dadjokepostcards.com) is basically a thin wrapper that laces together a simple input form, the icanhazdadjoke API (I still chuckle every time I realize someone brought this into our world), an API that sends real mail for you (Lob), a payment API (Stripe), and a couple other components. Governments that give their departments and program offices a decent set of LEGOs to build with (what some have been calling [government as a platform](https://scispace.com/pdf/government-as-a-platform-y4jj5l8i5h.pdf) for a long time) are going to find it's easier than ever for those departments and programs to deliver services for their citizens more quickly, efficiently, consistently, securely, etc.
+
+Governments, predictably, are all over the map. [The province of Alberta](https://nateglubish.substack.com/p/they-said-it-would-cost-54-million), of all places, is one of the first to use these developments to flip the script on how they interact with software vendors.)
 
 The individuals who can power organizations to capitalize on this shift － tech-literate designers and product managers － were already in short supply pre-AI, and demand is exploding for them now. These are the AI-assisted versions of the "T-shaped" players we so prized at 18F and CDS: people who understand design and product, and who are also capable of [showing the thing](https://gds.blog.gov.uk/2014/06/03/principles-for-prototyping/). Someone who can teach those skills quickly and at scale is going to do very well.
 
