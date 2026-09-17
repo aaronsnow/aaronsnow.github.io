@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "I Did a Thing With AI to Learn How To Do a Thing With AI: Send a Dad Joke On a Postcard"
+title:  "Weekend AI Learning Project: Send a Dad Joke on a Postcard"
 date:   2026-09-16 00:00:00 -0400
 # categories: dadjokes ai development
 ---
 
-Hey, I made a thing: [dadjokepostcards.com](https://www.dadjokepostcards.com). Pick a terrible joke, have it mailed on a postcard to someone who deserves it, and you donate to a good cause along the way. Inspired by wanting to keep the #dadjoke torture going, multimedia style, even when my kids are away at camp or in college － and by wanting to test drive being a hobbyist-level developer again.
+Hey, I made a thing with AI to teach myself how to make a thing with AI: [dadjokepostcards.com](https://www.dadjokepostcards.com). Pick a terrible joke, have it mailed on a postcard to someone who deserves it, and you donate to a good cause along the way.
+
+This was inspired by wanting to keep some multichannel #dadjoke torture going even as my kids left for summer camp or college. That was a few years ago and I never got around to it, but recently, when I wanted to learn how to do AI-assisted coding, this seemed like a perfect project to cut my teeth on.
 
 Some details about how it went and what I learned:
 
